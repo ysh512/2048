@@ -1,0 +1,29 @@
+/*
+/*/
+
+
+##################
+# unused files   #
+##################
+*~
+*.pyc
+.project
+.*project
+.classpath
+
+#############################
+# tracked files in root dir #
+#############################
+!.gitignore
+!AndroidManifest.xml
+!readme.md
+!/libs/
+!/assets/
+
+
+##################
+# tracked folders#
+##################
+!/src/
+!/res/
+!/doc/
